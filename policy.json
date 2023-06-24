@@ -1,0 +1,9 @@
+{
+  "etag": "ACAB",
+  "bindings": {
+    "members": [
+      "user:hello@kvd.studio"
+    ],
+    "role": "roles/iam.serviceAccountTokenCreator"
+  }
+}

@@ -1,0 +1,3 @@
+bucket = "tf-playground-state-390610"
+prefix = "static.tfstate.d"
+impersonate_service_account = "tf-playground-sa@terraform-playground-390610.iam.gserviceaccount.com"
